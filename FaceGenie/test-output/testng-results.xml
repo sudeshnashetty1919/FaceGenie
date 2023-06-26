@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86981" started-at="2023-06-26T22:31:26 IST" finished-at="2023-06-26T22:32:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="86981" started-at="2023-06-26T22:31:26 IST" finished-at="2023-06-26T22:32:53 IST">
+      <class name="scripts.LoginPage">
+        <test-method status="PASS" signature="initializeWebDriver()[pri:0, instance:scripts.LoginPage@50b494a6]" name="initializeWebDriver" is-config="true" duration-ms="8472" started-at="2023-06-26T22:31:17 IST" finished-at="2023-06-26T22:31:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeWebDriver -->
+        <test-method status="PASS" signature="UserLogIn()[pri:0, instance:scripts.LoginPage@50b494a6]" name="UserLogIn" duration-ms="86904" started-at="2023-06-26T22:31:26 IST" finished-at="2023-06-26T22:32:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLogIn -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:scripts.LoginPage@50b494a6]" name="quitDriver" is-config="true" duration-ms="1090" started-at="2023-06-26T22:32:53 IST" finished-at="2023-06-26T22:32:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- scripts.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
